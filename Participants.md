@@ -18,4 +18,5 @@
 * Chris Stanton (Metropolitan New York Library Council)
 * Emily Toner (Boston College)
 * Teresa Weisser (Millersville University of Pennsylvania)
+* Felicity Dykas (University of Missouri--Columbia
 
